@@ -197,8 +197,8 @@ def video(update: Update, context: CallbackContext):
 __mod_name__ = "Music"
 
 __help__ = """ *Now Donwload and hear/watch song on telegram
- ‣ `/song on my way`*:* it will down song from youtube server for you
- ‣ `/video born alone die alone` *:* download video from youtube
+ ‣ /song `on my way`*:* it will down song from youtube server for you
+ ‣ /video `born alone die alone` *:* download video from youtube
 """
 
 
