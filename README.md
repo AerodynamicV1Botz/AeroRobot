@@ -1,4 +1,4 @@
-<H2>    AeroXManagement-Bot🤖    </H2>
+<H2>    🤖AeroRobot🤖    </H2>
 <div align="center">
 <img src="https://telegra.ph/file/bd31673398e3f50e6dbaa.jpg" alt=""></div>
 <h3 align="center"> 
