@@ -71,9 +71,9 @@ dispatcher.add_handler(DisableAbleCommandHandler("tts", gtts, pass_args=True, ru
 dispatcher.add_handler(DisableAbleCommandHandler("splcheck", spellcheck, run_async=True))
 
 __help__ = """
- ‣ `/tts`: Convert Text in Bot Audio 
- *Usage*: reply to text or write message with command. Example `/tts hello`
- ‣ `/slpcheck`: Check the right spelling of text
+ ‣ /tts: Convert Text in Bot Audio 
+ *Usage*: reply to text or write message with command. Example /tts `hello`
+ ‣ /slpcheck: Check the right spelling of text
 """
 __mod_name__ = "Speech Text"
 __command_list__ = ["tts"]
