@@ -49,7 +49,7 @@ def sketch(update: Update, context: CallbackContext):
 
 
 __help__ = """
- ‣ `/sktech `*:*  Create your image sktech by replying picture
+ ‣ /sktech *:*  Create your image sktech by replying picture
 
  """
 
