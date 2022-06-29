@@ -43,8 +43,8 @@ def totranslate(update: Update, context: CallbackContext) -> None:
  
  
 __help__ = """ You can translate messages on telegram in a simple way
-‣ `/tr [List of Language Codes]`:- as reply to a long message.
-‣ `/tl [List of Language Codes]`:- as reply to a long message.
+‣ /tr `[List of Language Codes]`:- as reply to a long message.
+‣ /tl `[List of Language Codes]`:- as reply to a long message.
 """
 __mod_name__ = "Translator"
  
