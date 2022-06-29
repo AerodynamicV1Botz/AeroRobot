@@ -1,31 +1,76 @@
-<p align="center">
-    <a href="https://github.com/noob-kittu/YoneRobot/stargazers"><img src="https://img.shields.io/github/stars/noob-kittu/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-</p>
-<p align="center">
-    <a href="https://github.com/noob-kittu/YoneRobot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/noob-kittu/YoneRobot/commits/prince"> <img src="https://img.shields.io/github/last-commit/noob-kittu/YoneRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/noob-kittu/YoneRobot/issues"> <img src="https://img.shields.io/github/issues/noob-kittu/YoneRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/noob-kittu/YoneRobot/network/members"> <img src="https://img.shields.io/github/forks/noob-kittu/YoneRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+<H2>    AeroXManagement-Bot🤖    </H2>
+<div align="center">
+<img src="https://telegra.ph//file/12f8ffad078bbbe5fa09e.jpg" alt=""></div>
+<h3 align="center"> 
+    A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
+</h3>
 
 <p align="center">
-  <img src="https://telegra.ph/file/bd31673398e3f50e6dbaa.jpg">
-</p>
+    <a href="https://python.org">
+        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
+    </a>
+<a href="https://GitHub.com/AerodynamicV1Botz">
+        <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
+    </a>
+<img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
+<img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
+<img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
+<a href="https://github.com/AerodynamicV1Botz/AeroRobot"> <img src="https://img.shields.io/github/repo-size/AerodynamicV1Botz/AeroXRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<div>
 
-# YoneRobot
-Me On Telegram [✨Aero✨](https://t.me/Aero_Robot)
+###  ╒═══「 Status 」
 
-## How To Host
-The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/AeroRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
-CREDITS
-```
-Well, it's all in the commit history Feel free to open pull requests should any be missing.
++ [x] Maintained
++ [x] Support Group Included
++ [x] Free
++ [x] OpenSourced
++ [x] Working Instance Available
++ [x] Clean Code
++ [x] Heroku Deploy
++ [x] Docker/Local Machine
 
-```
+╘══「 Can be found on telegram as [AeroXManagement-Bot](https://t.me/AeroXManagement_Bot) 」
+
+
+![AeroRobot](https://telegra.ph//file/2a8e42a346478715b197f.jpg)
+
+### ╒═══「 Creator Info/Credits 」
++  [AerodynamicV1Botz](https://GitHub.com/AerodynamicV1Botz) : OWNER | DEV
++  [Noob-Kittu](https://github.com/noob-kittu) : BASE
+
+╘══「 Any other authorship/credits can be seen through the commits. 」
+
+### ╒═══「 Support Group 」 
+
+The Support group can be reached out to at [Support💬](https://t.me/AerodynamicV1_Promotion), where you can ask for help about [AeroXManagement-Bot](https://t.me/AeroXManagement_Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+
+</h3>
 
 <p align="center">
-    <a href="//www.dmca.com/Protection/Status.aspx?ID=899e4481-3dc5-49f5-98f2-abf0e5d051b8" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=899e4481-3dc5-49f5-98f2-abf0e5d051b8"  alt="DMCA.com Protection Status" /></a>  
+<a href="https://telegram.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+<p align="center">
+<a href="https://telegram.me/AerodynamicV1_Promotion"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/%20AerodymamicV1-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p> 
+
+<details>
+	<summary>Heroku Deploy</summary>
+	<br>
+	<b>
+The Easiest Way to Deploy This Bot is Via Heroku.
+		In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!</b>
+	
+  <h1>
+    <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/AeroRobot">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+        </a>
+    </p>
+</h1>
+
+</details>
