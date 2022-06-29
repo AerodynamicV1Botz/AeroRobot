@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://telegra.ph/file/bd31673398e3f50e6dbaa.jpg">
 </p>
 
 # YoneRobot
