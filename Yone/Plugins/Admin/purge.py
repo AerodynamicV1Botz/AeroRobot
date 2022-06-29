@@ -164,11 +164,11 @@ async def purgeto_messages(event):
 
 __help__ = """
 *Admins only:*
- ‣ `/del`*:* deletes the message you replied to
- ‣ `/purge`*:* deletes all messages between this and the replied to message.
- ‣ `/purge <number>`*:* if replied to with a number, deletes that many messages from target message, if sent normally in group then delete from current to previous messages
- ‣ `/purgefrom`*:* marks a start point to purge from
- ‣ `/purgeto`*:* marks the end point, messages bet to and from are deleted
+ ‣ /del*:* deletes the message you replied to
+ ‣ /purge*:* deletes all messages between this and the replied to message.
+ ‣ /purge <number>*:* if replied to with a number, deletes that many messages from target message, if sent normally in group then delete from current to previous messages
+ ‣ /purgefrom*:* marks a start point to purge from
+ ‣ /purgeto*:* marks the end point, messages bet to and from are deleted
 """
 
 
